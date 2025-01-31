@@ -17,6 +17,6 @@ Education
   
 Work experience
 ======
-* Machine learning research internship, EDF Lab Paris Saclay
-* NLP research internship, University of León
+* Machine learning research internship - EDF Lab Paris Saclay. (2024)
+* NLP research internship - University of León. (2023)
   
