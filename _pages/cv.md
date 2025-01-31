@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-An extended [pdf](https://aschoonaert.github.io/files/cv_en.pdf) version.
+An extended [pdf](https://aschoonaert.github.io/files/CV.pdf) version.
 
 Education
 ======
