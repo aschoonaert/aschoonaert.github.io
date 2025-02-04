@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-An extended [pdf](https://aschoonaert.github.io/files/CV.pdf) version.
-
 Education
 ======
 * Ph.D in Applied Mathematics - École Nationale des Ponts et Chaussées (ENPC), École nationale de la statistique et de l'administration économique (ENSAE), Électricité de France (EDF) (2027 expected)
